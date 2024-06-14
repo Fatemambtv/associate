@@ -10,9 +10,9 @@ const productData = [
         link: "https://amzn.in/d/7S1xAII"
     },
     {
-        imageSrc: "https://m.media-amazon.com/images/I/61rsK1maJrL._SL1500_.jpg",
-        title: "logitech pebble keys keyboard",
-        link: "https://amzn.in/d/guQO8dE"
+        imageSrc: "https://m.media-amazon.com/images/I/71yHFHjQylL._SL1500_.jpg",
+        title: "toys",
+        link: "https://amzn.in/d/8mfsm5f"
     },
     {
         imageSrc: "https://m.media-amazon.com/images/I/51pIShw4V8L._SL1500_.jpg",
